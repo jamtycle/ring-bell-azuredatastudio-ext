@@ -1,3 +1,8 @@
+out
+node_modules
+.ads-test/
+*.vsix
+
 # Logs
 logs
 *.log
